@@ -1,0 +1,9 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #fcfcfc;
+    padding-top: 55px; 
+    min-height: 100vh;
+    margin:0;
+    display:flex; 
+    flex-direction:column;
+} 
