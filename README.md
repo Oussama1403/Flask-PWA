@@ -15,7 +15,7 @@ cd Flask-PWA
 python3 flask_app.py
 ```
 Then head over to http://127.0.0.1:5000/ you should see a page and install button in the browser(if supports).<br>
-<b>a web browser will only allow the app to register if the application is served over https,or on localhost(127.0.0.1:5000) for development purposes.
+<b>a web browser will only allow the app to register if the application is served over https,or on localhost(127.0.0.1:5000) for development purposes.</b>
 
 
 The project directory will contain:
