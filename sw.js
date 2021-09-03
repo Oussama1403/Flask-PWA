@@ -5,7 +5,7 @@ var cacheFirstFiles = [
   // If loading from cache, fetch from network in the background to update the resource. Examples:
   // 'assets/img/logo.png',
   // 'assets/models/controller.gltf',
-  'static/logo.png'
+  'static/logo.png',
   'static/512x512.png'
 
 ];
@@ -15,7 +15,8 @@ var networkFirstFiles = [
   // 'index.html',
   // 'build/build.js',
   // 'css/index.css'
-  'static/css/style.css',
+  'templates/base.html',
+  'templates/home.html'
 ];
 
 // Below is the service worker code.
